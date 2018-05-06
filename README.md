@@ -1,11 +1,11 @@
 # JS_Challenge_Rax
-creating/starting new project for RAX
+creating first project for RAX
 by: Beata Cable
 May 6, 2018
 
 
 
-> The Task:
+> The ask is:
 >Your challenge, should you choose to accept it, is to create a web application using any framework you choose. It must be a JavaScript framework and it must follow the user story below.
 
 >As a user, I would like to have an application that shows a table of information.
@@ -19,3 +19,7 @@ May 6, 2018
 >Things that you can do to WOW us,
 >Stylistic flair
 >Unit testing
+
+
+>We can run this app through index.html as well as localhost:9998
+starting server.js 
